@@ -18,4 +18,4 @@
 
 [twitter]: 
 [instagram]: https://www.instagram.com/_mattmarks
-[linkedin]: https://www.linkedin.com/in/matthew-marks-1
+[linkedin]: https://www.linkedin.com/in/matthew-marks1
