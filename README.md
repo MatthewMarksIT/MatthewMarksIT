@@ -1,19 +1,32 @@
-<h1>Hi, I'm Matthew, an <a href="https://www.linkedin.com/in/matthew-marks1/">IT & Cybersecurity Professional</a></h1>
+# <a href="https://www.linkedin.com/in/matthew-marks1/">Matthew Marks</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/MatthewMarksIT/osTicket1)
-  - [osTicket: Post-Installation Configuration](https://github.com/MatthewMarksIT/osTicket2)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/MatthewMarksIT/osTicket3)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MatthewMarksIT/active_directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MatthewMarksIT/azure_network_protocols)
-  - [VPN Setup and Usage (Proton VPN) with Azure VMs](https://github.com/MatthewMarksIT/vpnsetup)
-  - [Creating a Virtual Machine within Microsoft Azure](https://github.com/MatthewMarksIT/azurevm)
 
-<h2>🤳Connect with me:</h2>
+## ⚠️ Vulnerability Management Projects
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-[linkedin]: https://www.linkedin.com/in/matthew-marks1
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/___________
+[youtube]: https://www.youtube.com/c/___________
+[instagram]: https://www.instagram.com/___________
+[linkedin]: https://linkedin.com/in/matthew-marks1
+
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+-->
