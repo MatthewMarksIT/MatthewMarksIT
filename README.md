@@ -12,7 +12,7 @@ I'm passionate about AI and cybersecurity, and love tackling complex challenges 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MatthewMarksIT/threat-hunting-scenario-tor)**
 
-##  Governance, Risk, and Compliance (GRC)
+## 📚 Governance, Risk, and Compliance (GRC)
 
 - **[Third Party Risk Management: Vendor Analysis](https://github.com/MatthewMarksIT/third_party_risk_management)**
 
