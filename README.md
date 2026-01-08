@@ -14,7 +14,7 @@ I'm passionate about AI and cybersecurity, and love tackling complex challenges 
 
 ##  Governance, Risk, and Compliance (GRC)
 
-- **[Third Party Risk Management: Vendor Analysis] (https://github.com/MatthewMarksIT/third_party_risk_management)**
+- **[Third Party Risk Management: Vendor Analysis](https://github.com/MatthewMarksIT/third_party_risk_management)**
 
 <hr/>
 
