@@ -20,7 +20,7 @@ I'm passionate about AI and cybersecurity, and love tackling complex challenges 
 
 ## 💻 IT Support/Help Desk
 
--**[osTicket: Installation, Configuration, and Ticket Lifecycle]
+-**[osTicket: Installation, Configuration, and Ticket Lifecycle](https://github.com/MatthewMarksIT/osTicket_complete)**
 
 ## 📊Human Data Management/Data Operations
 
