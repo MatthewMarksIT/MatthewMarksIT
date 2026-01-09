@@ -18,6 +18,12 @@ I'm passionate about AI and cybersecurity, and love tackling complex challenges 
 - **[Asset Management: Classification + Risk Assessment](https://github.com/MatthewMarksIT/asset_classification)**
 - **[Identity & Access Management: Access Review](https://github.com/MatthewMarksIT/access_review)**
 
+## 💻 IT Support/Help Desk
+
+-**[osTicket: Installation, Configuration, and Ticket Lifecycle]
+
+## 📊Human Data Management/Data Operations
+
 <hr/>
 
 ## 🤳 Connect With Me
