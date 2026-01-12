@@ -24,6 +24,8 @@ I'm passionate about AI and cybersecurity, and love tackling complex challenges 
 
 ## 📊Human Data Management/Data Operations
 
+-**[Data Annotation QA Framework]
+
 <hr/>
 
 ## 🤳 Connect With Me
