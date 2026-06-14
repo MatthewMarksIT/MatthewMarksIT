@@ -29,7 +29,7 @@ I'm passionate about AI and cybersecurity, and love tackling complex challenges 
 
 
 ## Local LLMs
-
+- **[Local Agent Stack with OpenWebUI](https://github.com/MatthewMarksIT/local_agent_stack)** 
 <hr/>
 
 ## 🤳 Connect With Me
